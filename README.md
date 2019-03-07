@@ -2,6 +2,8 @@
 
 This project is a part of Bachelor Thesis for Computer Science Degree titled "System for predicting flight delays"
 
+## Prerequisites
+
 List of used packages:
 * numpy
 * pandas
